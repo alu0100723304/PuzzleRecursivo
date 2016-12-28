@@ -1,0 +1,5 @@
+projectKey=P03-LDH
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/P03-LDH
+ceTaskId=AVfzGyodr0er9B9bc5O6
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVfzGyodr0er9B9bc5O6
